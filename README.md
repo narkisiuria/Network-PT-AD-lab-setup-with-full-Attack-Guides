@@ -1,20 +1,6 @@
-# Home Lab - Real Cybersecurity Attacks
+# How to perform real cybersecurity attacks in a VM lab you'll build and document on your own
 
-Isolated VM lab for practicing network pentesting. Built and documented step by step, everything tested by hand, no theory-only stuff.
+### Latest Updates (July 21, 2026)
+- Added DNS spoofing attack guide to the documentation
 
-## Lab Setup
-
-- **Kali Linux** — attacker machine
-- **Metasploitable2** — vulnerable target
-- **Windows 10** — victim VM
-- **pfSense** — gateway / router for the lab network
-
-## Docs
-
-- [`kaliLinuxAttacker-setup.md`](lab-build/kaliLinuxAttacker-setup.md) — setting up the attacker box
-- [`metasploitable2-setup.md`](lab-build/metasploitable2-setup.md) — setting up the target box
-- [`attack_MITM.md`](lab-build/attack_MITM.md) — MITM attack notes (ARP spoofing)
-
-## Goal
-
-Learning offensive network security hands-on, working toward a real pentesting career.
+This README outlines a hands-on, isolated virtual machine lab designed for practicing network penetration testing. The environment uses Kali Linux as the attacker machine, Metasploitable2 as a vulnerable target, Windows 10 as a victim VM, and pfSense as a gateway/router. The project provides step-by-step setup guides for configuring the attacker and target systems, along with notes on ARP spoofing and MITM attacks. Its primary goal is to deliver practical, hands-on offensive security training to prepare for a professional pentesting career.
