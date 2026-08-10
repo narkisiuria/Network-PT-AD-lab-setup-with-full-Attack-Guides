@@ -33,7 +33,7 @@ find / -perm -4000 -type f 2>/dev/null
 /bin/ping
 /bin/fusermount
 /bin/umount
-/bin/mount
+/bin/mount 
 /usr/bin/chsh
 /usr/bin/gpasswd
 /usr/bin/pkexec
