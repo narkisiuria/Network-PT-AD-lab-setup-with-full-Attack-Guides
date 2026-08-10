@@ -1,4 +1,4 @@
-# How to perform real cybersecurity attacks in a VM lab you'll build and document on your own
+# A full guide on how to perform real world cybersecurity attacks in a VM lab you'll build and document on your own
 
 ### Latest Updates (August 10, 2026)
 - Added a new Active Directory attack guide: Kerberoasting
