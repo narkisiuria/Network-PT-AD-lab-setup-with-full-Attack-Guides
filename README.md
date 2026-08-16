@@ -1,4 +1,4 @@
-# A full guide on how to perform real world cybersecurity attacks in a VMs AD lab you can build on your own
+# A full guide chain on how to set up a PT-AD lab and preform real world cyber attacks on it
 
 ### Latest Updates — August 16, 2026
 - Added an Active Directory BloodHound attack guide: attacks/attack_BloodHound.md
