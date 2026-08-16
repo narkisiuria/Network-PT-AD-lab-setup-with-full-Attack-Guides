@@ -1,5 +1,9 @@
 # A full guide on how to perform real world cybersecurity attacks in a VMs AD lab you can build on your own
 
+### Latest Updates — August 16, 2026
+- Added an Active Directory BloodHound attack guide: attacks/attack_BloodHound.md
+- Added a Windows startup-payload technique guide: tricks_and_methods/how_to_make_a_payload_run_on_startup_WIN.md
+
 ### Latest Updates (August 10, 2026)
 - Added a new Active Directory attack guide: Kerberoasting
 - Added Active Directory lab-build guides for creating a low privilege user, creating a service account, and making a service account Kerberoastable
@@ -9,7 +13,7 @@ This README outlines a hands-on, isolated virtual machine lab designed for pract
 
 The documentation is organized into four sections:
 
-- `attacks/` - attack guides, including DNS spoofing, MITM, and Kerberoasting
-- `lab-build/` - guides for building the Active Directory lab and preparing accounts for attacks
-- `setups/` - setup guides for Kali Linux and Metasploitable2
-- `tricks_and_methods/` - extra techniques and methods
+- `attacks/` — attack guides, including DNS spoofing, MITM, Kerberoasting, and BloodHound
+- `lab-build/` — guides for building the Active Directory lab and preparing accounts for attacks
+- `setups/` — setup guides for Kali Linux and Metasploitable2
+- `tricks_and_methods/` — additional techniques, including the Windows startup-payload guide and the Python privilege-escalation trick
