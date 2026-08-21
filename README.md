@@ -1,10 +1,10 @@
 # A full guide chain on how to set up a PT-AD lab and preform real world cyber attacks on it
 
-### Latest Updates — August 16, 2026
+### Latest Updates: August 16, 2026
 - Added an Active Directory BloodHound attack guide: attacks/attack_BloodHound.md
 - Added a Windows startup-payload technique guide: tricks_and_methods/how_to_make_a_payload_run_on_startup_WIN.md
 
-### Latest Updates (August 10, 2026)
+### Latest Updates: (August 10, 2026)
 - Added a new Active Directory attack guide: Kerberoasting
 - Added Active Directory lab-build guides for creating a low privilege user, creating a service account, and making a service account Kerberoastable
 - Redesigned the project layout by separating attacks, lab-build guides, setups, and tricks and methods
