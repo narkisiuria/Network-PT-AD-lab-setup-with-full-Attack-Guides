@@ -1,4 +1,4 @@
-# A full guide chain on how to set up a PT-AD lab and preform real world cyber attacks on it
+# A Full Guide Chain On How To Set Up A PT-AD Lab And Preform Real World Cyber Attacks On It
 
 ### Latest Updates: August 16, 2026
 - Added an Active Directory BloodHound attack guide: attacks/attack_BloodHound.md
