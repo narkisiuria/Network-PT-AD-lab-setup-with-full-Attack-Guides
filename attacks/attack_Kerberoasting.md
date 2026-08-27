@@ -13,7 +13,7 @@ The attack's chain:
 5. If cracked - you now know svc-sql's real password, and can log in AS that account. If svc-sql had bad permissions (like Domain Admin), game over for the whole domain.
 
 # Step one: #
-Type this in the attacker's terminal to request a ticket from the service you want to preform the attack on:
+Type this command in the attacker's terminal to request a ticket from the service you want to preform the attack on:
 
 ```bash
 klist get [YOURSERVICE]/[YOUR SERVICE NAME].[YOUR DOMAIN NAME]:[YOUR SEVICE PORT]

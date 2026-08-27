@@ -1,4 +1,4 @@
-A classic Python trick to upgrade a shell after exploitation, used in an OffSec CTF:
+## A classic Python trick to upgrade a shell after exploitation, used in an OffSec CTF: ##
 
 Situation: after the server executed the PHP web shell, I had a terminal on the server without a full TTY:
 

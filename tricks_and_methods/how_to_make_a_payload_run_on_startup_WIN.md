@@ -1,4 +1,4 @@
-# Payload Delivery + Persistence via SMB (Lab Notes)
+## Payload Delivery + Persistence via SMB (Lab Notes) ##
 
 Target: Win10 VM (192.168.56.106), local user `user2` with weak SMB creds.
 
