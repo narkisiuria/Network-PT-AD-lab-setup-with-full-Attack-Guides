@@ -1,7 +1,8 @@
+# What is DNS Spoofing?
 DNS spoofing (or DNS cache poisoning) is a cyberattack that alters the Domain Name System (DNS) records, silently redirecting users from legitimate websites to malicious, attacker-controlled clones.
  The goal is to steal login credentials, distribute malware, or intercept sensitive data.
 
-*HOW IT WORKS*
+# *HOW IT WORKS*
 
 The Domain Name System acts as the "phone book" of the internet, translating readable website addresses (e.g., example.com) into numerical IP addresses. The Request:
  When you type a website name, your browser queries a DNS server. The Manipulation: An attacker intercepts this query and injects false information, causing the server to return the wrong IP address.
